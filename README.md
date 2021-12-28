@@ -10,10 +10,10 @@ Utilizaremos a API do GitHub, e a documentação pode ser visualizada em https:/
 
 ## Escopo do desafio
 
-Desenvolver um formulário onde poderemos procurar pelos repositorios de um usuario especificado.
-Desenvolver os módulos de frontend e backend de forma separada.
-O backend deve ser desenvolvido em PHP e qualquer framework.
-O desenvolvimento do frontend pode utilizar JavaScript e qualquer framework.
+Desenvolver um formulário onde poderemos procurar pelos repositorios de um usuario especificado.  
+Desenvolver os módulos de frontend e backend de forma separada.  
+O backend deve ser desenvolvido em PHP e qualquer framework.  
+O desenvolvimento do frontend pode utilizar JavaScript e qualquer framework.  
 
 ## O que será avaliado
 
