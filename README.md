@@ -18,3 +18,4 @@ O desenvolvimento do frontend pode utilizar JavaScript e qualquer framework.
 ## O que será avaliado
 
 O código: manutenabilidade, clareza e limpeza de código; resultado funcional; entre outros fatores.
+O versionamento do código também será avaliado. 
